@@ -1,4 +1,4 @@
-package com.easylab.rentshop.Pojo;
+package com.easylab.rentshop.pojo;
 
 /***
  * *
